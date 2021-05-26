@@ -1,7 +1,7 @@
 # NYC Screened High School Admissions—School Year 2020
-This repository contains code and data to reproduce the findings featured in our story "[NYC’s School Algorithms Cement Segregation. This Data Shows How]()."
+This repository contains code and data to reproduce the findings featured in our story "[NYC’s School Algorithms Cement Segregation. This Data Shows How](https://themarkup.org/investigation/2021/05/26/nycs-school-algorithms-cement-segregation-this-data-shows-how)."
 
-Our methodology is described in "[How We Investigated NYC High School Admissions]()."
+Our methodology is described in "[How We Investigated NYC High School Admissions](https://themarkup.org/show-your-work/2021/05/26/how-we-investigated-nyc-high-school-admissions)."
 
 Data we used to perform our analysis is in the `data` folder. Our final analysis is in the `output` folder.
 
