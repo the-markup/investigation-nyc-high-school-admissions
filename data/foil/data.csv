@@ -1,0 +1,77 @@
+School DBN,School Name,School Admissions Method(s),Applicants,,,,,,,,,,Offers,,,,,,,,,
+,,,Total,Asian,Black,Hispanic,Other,White,Private,Poverty,ELL,SWD,Total,Asian,Black,Hispanic,Other,White,Private,Poverty,ELL,SWD
+01M450,East Side Community School,"MS:Screened, HS:Screened",1869,287,328,738,54,297,165,1154,84,418,118,11,19,59,s,26,s,68,s,32
+01M539,"New Explorations into Science, Technology and Math","ES:Citywide G&T, MS:Screened, HS:Screened",6203,1842,653,1159,265,1697,587,2758,88,450,409,134,18,44,26,162,25,118,s,56
+01M696,Bard High School Early College,HS:Screened,3971,784,769,957,147,838,476,2017,70,346,279,65,28,42,15,85,44,88,s,31
+02M047,47 The American Sign Language and English Secondar,HS:Screened,397,17,96,245,8,12,19,336,60,95,84,s,15,56,s,s,8,71,15,17
+02M260,The Clinton School,"MS:Screened, HS:Screened",2830,406,211,458,153,1203,399,799,35,358,163,17,6,19,8,105,8,19,s,30
+02M374,Gramercy Arts High School,"HS:Audition, Screened",855,42,260,426,26,53,48,642,57,193,190,10,58,86,8,9,19,133,12,33
+02M376,NYC iSchool,HS:Screened,4547,715,607,1194,184,1331,516,2048,72,606,161,15,22,37,11,55,21,97,s,33
+02M407,Institute for Collaborative Education,"MS:Screened, HS:Screened",972,116,182,293,37,218,126,476,32,171,86,9,23,13,s,36,s,30,s,22
+02M408,Professional Performing Arts High School,"MS:Screened, HS:Audition",1123,48,314,394,57,228,82,601,35,178,191,17,22,42,17,79,14,55,s,31
+02M411,Baruch College Campus High School,HS:Screened,6152,1493,922,1592,209,1273,663,3253,124,673,173,51,s,13,s^,69,25,62,s,29
+02M412,N.Y.C. Lab School for Collaborative Studies,HS:Screened,3172,724,263,505,153,1088,439,1141,49,500,176,44,s,s^,11,72,38,60,s,37
+02M413,School of the Future High School,"MS:Screened, HS:Screened",2455,406,303,622,122,756,246,1078,71,448,145,21,14,21,17,63,9,44,s,31
+02M414,N.Y.C. Museum School,HS:Screened,3416,579,356,862,140,1118,361,1408,70,461,252,34,16,22,9,134,37,48,s,33
+02M416,Eleanor Roosevelt High School,HS:Screened,5796,1310,758,1505,206,1239,778,2911,113,544,345,82,s,s^,24,155,68,56,s,34
+02M418,Millennium High School,HS:Screened,6395,1652,837,1409,249,1547,701,3072,110,578,270,137,9,30,6,63,25,114,s,41
+02M439,Manhattan Village Academy,HS:Screened,4596,745,902,1946,129,447,427,3087,189,507,138,23,20,61,s,17,s^,81,s,28
+02M519,Talent Unlimited High School,HS:Audition,1169,43,356,486,41,159,84,700,39,200,173,s^,32,81,s,27,20,82,s,28
+02M531,Repertory Company High School for Theatre Arts,HS:Audition,451,12,124,193,17,67,38,271,21,90,72,s,14,30,s,13,9,34,s,18
+02M542,Manhattan Bridges High School,HS:Screened: Language & Academics,717,s,s,691,12,s,9,647,403,107,154,s,s,147,s,s,s,137,77,21
+02M545,High School for Dual Language and Asian Studies,HS:Screened: Language & Academics,1201,814,72,176,26,45,68,880,114,96,144,115,s,11,s,7,s,109,34,17
+02M600,The High School of Fashion Industries,HS:Audition,1957,116,602,1010,47,96,86,1538,139,385,586,29,167,309,13,34,34,438,31,126
+02M605,Humanities Preparatory Academy,HS:Screened,729,37,176,360,26,76,54,513,37,175,83,s,17,34,s,13,13,49,s,19
+02M630,Art and Design High School,HS:Audition,2875,247,676,1318,87,360,187,1960,156,585,471,60,53,165,22,122,49,216,6,93
+03M291,West End Secondary School,"MS:Screened, HS:Screened",1056,64,88,210,52,480,162,261,20,179,108,11,s,16,s,67,9,15,s,24
+03M417,Frank McCourt High School,HS:Screened,1912,106,333,777,69,472,155,1033,99,367,156,10,11,41,6,71,17,40,s,34
+03M479,Beacon High School,HS:Screened,6901,1146,1047,1777,289,1881,761,3196,122,667,605,122,66,151,33,171,62,209,s,113
+03M541,Manhattan / Hunter Science High School,HS:Screened,5439,1212,940,1605,181,1022,479,3110,134,490,204,64,26,55,6,33,20,141,s,28
+03M859,Special Music School,"ES:Non-Zoned, MS:Screened, HS:Audition",376,32,65,145,18,92,24,185,12,78,69,11,s,12,8,28,s,13,s,7
+04M435,Manhattan Center for Science and Mathematics,"HS:Screened, Screened: Language & Academics",5183,899,1017,2347,164,459,297,3723,364,528,644,176,99,230,23,82,34,426,51,76
+04M495,Park East High School,HS:Screened,3112,227,883,1652,68,150,132,2465,163,493,132,9,39,69,s,9,s,93,6,27
+04M555,Central Park East High School,HS:Screened,4943,559,1183,2450,133,344,274,3691,229,707,214,40,41,87,8,25,13,147,6,35
+04M610,Young Women's Leadership School,"MS:Screened, HS:Screened",875,65,259,402,21,31,97,677,37,121,113,10,21,54,s,s^,20,87,s,21
+05M362,Columbia Secondary School,"MS:Screened, HS:Screened",4382,740,840,1510,140,684,468,2558,153,414,142,16,26,51,s,43,s,69,s,29
+05M670,Thurgood Marshall Academy for Learning and Social,"MS:Screened, HS:Screened",589,7,339,200,18,11,14,506,41,153,159,s,102,45,7,s,s,137,6,38
+06M293,City College Academy of the Arts,"MS:Limited Unscreened, HS:Screened",1695,86,316,1119,32,36,106,1371,197,322,96,s,s,89,s,s,s,81,s,23
+07X495,University Heights Secondary School,HS:Screened,3206,184,938,1838,51,87,108,2677,265,510,184,13,46,105,s,s^,11,143,8,39
+07X500,Hostos-Lincoln Academy of Science,"MS:Screened, HS:Screened",1562,48,494,917,38,24,41,1348,201,292,110,s,32,74,s,s,s,91,6,23
+09X324,Bronx Early College Academy for Teaching & Learnin,"MS:Limited Unscreened, HS:Screened",672,15,179,444,10,12,12,607,112,168,130,s,31,85,s,s,s,114,21,32
+09X413,Bronx High School for Medical Science,"MS:Screened, HS:Screened",1025,50,302,610,20,23,20,904,175,173,151,s,56,80,s,s,s,127,27,38
+09X568,Young Women's Leadership School of the Bronx,"MS:Screened, HS:Screened",555,26,186,313,6,12,12,487,43,100,112,6,36,64,s,s,s,95,s,24
+10X141,Riverdale / Kingsbridge Academy (Middle School / H,"MS:Open, Screened, Zoned, HS:Screened",1182,44,208,761,14,102,53,862,115,210,251,9,18,158,s^,57,s,129,23,54
+10X225,Theatre Arts Production Company School,"MS:Screened, HS:Audition",610,7,204,368,11,10,10,535,65,160,85,s,29,47,s,s,s,76,8,19
+10X368,In-Tech Academy (M.S. / High School 368),"MS:Open, Screened, Zoned, HS:Screened",818,26,138,615,15,15,9,707,139,207,161,s,17,129,s,s,s,140,38,38
+10X434,Belmont Preparatory High School,HS:Screened,2077,63,519,1360,36,64,35,1818,308,433,158,s,49,95,s,7,s,134,12,38
+10X437,Fordham High School for the Arts,HS:Audition,1873,41,523,1177,29,56,47,1591,260,463,156,s,44,96,s,8,s,127,6,34
+10X442,"Celia Cruz Bronx High School of Music, The",HS:Audition,565,8,174,350,9,11,13,476,79,144,164,s,61,92,s,s,s,137,7,37
+12X478,The Cinema School,HS:Screened,1075,23,258,740,19,24,11,973,178,274,117,s,28,84,s,s,s,102,11,25
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,"MS:Screened, HS:Audition",466,12,304,116,12,11,11,393,18,132,80,s,52,24,s,s,s,70,s,13
+13K595,Bedford Academy High School,HS:Screened,3111,240,1906,678,67,96,124,2355,129,446,115,15,79,10,s,6,s,74,s,19
+13K670,Benjamin Banneker Academy,HS:Screened,2909,136,1907,644,57,56,109,2249,92,439,299,9,213,58,8,s^,s,232,8,53
+14K614,Young Women's Leadership School of Brooklyn,"MS:Screened, HS:Screened",357,19,166,145,6,7,14,277,25,87,97,9,44,37,s,s,s,84,6,18
+15K429,Digital Arts and Cinema Technology High School,HS:Screened,1009,54,417,402,27,71,38,756,52,280,125,s,44,58,s,12,s,89,s,26
+15K497,The Boerum Hill School for International Studies,"MS:Open, HS:Screened",655,36,175,164,28,198,54,303,26,142,131,s,33,34,s,48,6,54,s,23
+15K656,Brooklyn High School of the Arts,HS:Audition,1886,95,912,534,51,195,99,1318,64,402,260,15,119,75,10,24,17,156,s,29
+15K684,Millennium Brooklyn HS,HS:Screened,5753,1277,1385,1146,141,1321,483,3218,148,589,312,106,s^,31,s,107,39,153,s,34
+17K543,"Science, Technology and Research Early College Hig","MS:Screened, HS:Screened",1080,121,665,178,21,60,35,800,34,136,138,14,97,16,s,s,s,94,s,17
+17K590,Medgar Evers College Preparatory School,"MS:Screened, HS:Screened",2950,133,2191,328,68,69,161,2124,56,364,286,13,231,20,13,s,s^,214,s,36
+19K409,East New York Family Academy,"MS:Screened, HS:Screened",489,22,311,134,9,s^,s,422,34,156,122,s,71,39,s,s,s,104,6,27
+21K468,Kingsborough Early College School,"MS:Open, HS:Screened",1794,275,606,362,41,398,112,1211,86,213,121,11,31,42,s,30,s,95,s,22
+22K535,Leon M. Goldstein High School for the Sciences,HS:Screened,4536,1508,655,471,102,1466,334,2647,119,312,511,173,72,48,12,178,28,267,s,49
+22K555,Brooklyn College Academy,HS:Screened,3490,601,1679,641,65,298,206,2473,130,389,201,12,135,23,s,s^,16,120,6,35
+24Q299,Bard High School Early College Queens,HS:Screened,4825,1453,603,1143,149,946,531,2479,105,353,267,94,46,45,8,44,30,169,s,36
+24Q520,Middle College High School at LaGuardia Community,HS:Screened,2237,288,198,1449,34,171,97,1716,268,450,105,11,s,75,s,14,s,78,6,20
+24Q610,Aviation Career & Technical Education High School,HS:Screened,4134,1143,274,2016,79,430,192,3046,353,602,635,261,18,244,8,74,30,456,19,88
+25Q252,"Queens School of Inquiry, The","MS:Open, HS:Screened",809,257,120,203,21,137,71,488,52,117,132,47,19,17,s,39,s^,69,s,15
+25Q525,Townsend Harris High School,HS:Screened,8123,3563,827,1709,187,1056,781,4600,205,375,577,336,23,43,16,84,75,228,s,55
+27Q323,Scholars' Academy,"MS:Screened, HS:Screened",1527,384,315,346,41,297,144,875,32,161,199,31,25,36,s,103,s,77,s,33
+27Q650,"High School for Construction Trades, Engineering a",HS:Screened,2561,721,413,949,78,218,182,1818,153,405,304,84,25,99,11,57,28,186,s,48
+28Q284,York Early College Academy,"MS:Limited Unscreened, HS:Screened",1745,465,682,270,97,52,179,1146,51,202,92,22,53,s,10,s,s,72,s,15
+28Q680,Queens Gateway to Health Sciences Secondary School,"MS:Screened, HS:Screened",1579,651,379,306,68,62,113,1050,105,132,147,68,36,15,s^,s,16,76,s,20
+28Q690,High School for Law Enforcement and Public Safety,HS:Screened,488,76,202,150,20,17,23,379,43,106,138,26,60,32,10,s,s^,108,10,24
+28Q896,"Young Women's Leadership School, Queens","MS:Screened, HS:Screened",529,170,171,100,19,23,46,344,35,61,118,50,37,16,s,s,8,85,s,16
+30Q286,"Young Women's Leadership School, Astoria","MS:Screened, HS:Screened",567,151,53,231,8,63,61,375,40,73,100,32,s^,35,s,20,7,64,s,17
+30Q501,Frank Sinatra School of the Arts High School,HS:Audition,2987,338,501,1056,94,721,277,1480,110,420,322,51,22,68,14,126,41,87,s,34
+30Q580,Baccalaureate School for Global Education,"MS:Screened, HS:Screened",3586,1505,219,790,103,611,358,2008,84,172,209,110,s,27,7,58,s,95,s,21
